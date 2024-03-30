@@ -5,4 +5,4 @@ Two ways to run:
 Main class: play via the console;
 GUI class: interact with the gui
 
-No use of the ucb library. Import javafx.
+No use of the ucb library. Javafx imported.
