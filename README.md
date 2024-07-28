@@ -11,3 +11,4 @@ Javafx imported.
      - IntelliJ IDEA: `Run` -> `Edit Configurations` -> `Add New Configuration` -> `Modify options` -> `Add VM options`
        - VM options: --module-path /path/to/javafx-sdk-<version>/lib --add-modules=javafx.base,javafx.controls,javafx.graphics
        - Main class: GUI
+    **Remember to replace "/path/to/javafx-sdk-<version>/lib" here to your module path**
